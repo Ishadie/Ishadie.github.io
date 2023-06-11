@@ -8,7 +8,7 @@ ___
 
 <h2>• “Flood Prediction Using Machine Learning Models” – Published in 2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications(HORA)</h2>
 <p>- This research used Binary Logistic Regression, K-Nearest Neighbour (KNN), Support Vector Classifier (SVC),
-Decision tree Classifier and Stacked Generalization (Stacking) to provide an accurate prediction of a flood <br>
-- To determine and evaluate the accuracy, several data pre-processing techniques were applied to the rainfall dataset. <br>
-- A comparative analysis was conducted to understand which model delivers better accuracy.<br>
-<strong>Full text available here : </strong><a href="https://ieeexplore.ieee.org/document/9800023">Flood Prediction Using Machine Learning Models</a></p>
+Decision tree Classifier and Stacked Generalization (Stacking) to provide an accurate prediction of a flood.</p>
+<p>- To determine and evaluate the accuracy, several data pre-processing techniques were applied to the rainfall dataset. </p>
+<p>- A comparative analysis was conducted to understand which model delivers better accuracy.</p>
+<p><strong>Full text available here : </strong><a href="https://ieeexplore.ieee.org/document/9800023">Flood Prediction Using Machine Learning Models</a></p>
