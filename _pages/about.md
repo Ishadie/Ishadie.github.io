@@ -35,7 +35,7 @@ Hi!!!! I am Ishadie Namir.
       overflow: hidden;
     }
     .skill-bar .skill-bar-fill {
-      background-color: #4CAF50;
+      background-color: #52adc8;
       height: 100%;
       transition: width 0.5s ease-in-out;
     }
