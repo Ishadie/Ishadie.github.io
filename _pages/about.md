@@ -116,6 +116,7 @@ Hi!!!! I am Ishadie Namir.
     }
   }
 </style>
+<div>
 <section class="bar-graph bar-graph-horizontal bar-graph-one">
   <div class="bar-one">
     <span class="year">2019</span>
@@ -134,8 +135,8 @@ Hi!!!! I am Ishadie Namir.
     <div class="bar" data-percentage="76.8%"></div>
   </div>
 </section>
+</div>
 
-<div>
 <h2>Projects</h2>
 
 
@@ -158,7 +159,6 @@ Hi!!!! I am Ishadie Namir.
    through a cart. Also, the customers can create their own account in the system and place
    orders through that account.
 
-</div>
 
 <h2>Achievements</h2>
 
