@@ -12,6 +12,59 @@ ___
 Hi!!!! I am Ishadie Namir.
 
 <h2>My Skills</h2>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Skill Bar Chart</title>
+  <style>
+    .skill-bar {
+      width: 100%;
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 10px;
+    }
+    .skill-bar .skill {
+      margin-bottom: 10px;
+    }
+    .skill-bar .skill-name {
+      font-weight: bold;
+    }
+    .skill-bar .skill-bar-wrapper {
+      background-color: #f0f0f0;
+      height: 20px;
+      border-radius: 10px;
+      overflow: hidden;
+    }
+    .skill-bar .skill-bar-fill {
+      background-color: #4CAF50;
+      height: 100%;
+      transition: width 0.5s ease-in-out;
+    }
+  </style>
+</head>
+<body>
+  <div class="skill-bar">
+    <div class="skill">
+      <div class="skill-name">HTML</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 80%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">CSS</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 75%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">JavaScript</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 90%;"></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
 
 
 <h2>Projects</h2>
