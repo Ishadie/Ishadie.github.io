@@ -9,7 +9,11 @@ redirect_from:
 ---
 ___
 
-Hi!!!! I am Ishadie Namir.
+I am working as an Assoiate Software Engineer at Brain Station-23 Ltd. in Bangladesh. My job role was to perform independent development of release-capable software components on the Java platform. Also, by performing the jobs and tasks, I acquired a number of technical skills and these include, in particular, software development
+knowledge as well as expertise in fields like CMS development, Java content repositories, and
+web service development.
+
+I have completed my Bachelors in Computer Science and Engineering (CSE) from BRAC University of Bangladesh. My research intersts include data science, machine learning and image processing.
 
 <h2>My Skills</h2>
 <html>
