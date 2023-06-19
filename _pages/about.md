@@ -47,27 +47,41 @@ I have completed my Bachelors in Computer Science and Engineering (CSE) from BRA
 <body>
   <div class="skill-bar">
     <div class="skill">
-      <div class="skill-name">HTML</div>
+      <div class="skill-name">Java</div>
       <div class="skill-bar-wrapper">
-        <div class="skill-bar-fill" style="width: 80%;"></div>
+        <div class="skill-bar-fill" style="width: 90%;"></div>
       </div>
     </div>
     <div class="skill">
-      <div class="skill-name">CSS</div>
+      <div class="skill-name">Python</div>
       <div class="skill-bar-wrapper">
-        <div class="skill-bar-fill" style="width: 75%;"></div>
+        <div class="skill-bar-fill" style="width: 85%;"></div>
       </div>
     </div>
     <div class="skill">
       <div class="skill-name">JavaScript</div>
       <div class="skill-bar-wrapper">
-        <div class="skill-bar-fill" style="width: 90%;"></div>
+        <div class="skill-bar-fill" style="width: 70%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">C++</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 75%;"></div>
+      </div>
+    </div>
+    <div class="skill">
+      <div class="skill-name">HTML</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 80%;"></div>
       </div>
     </div>
   </div>
 </body>
 </html>
 
+* Tools: Intellij IDEA, Eclipse, Netbeans, MS Visual Studio
+* Database Management: MySQL
 
 <h2>Projects</h2>
 
