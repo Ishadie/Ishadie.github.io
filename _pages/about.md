@@ -29,12 +29,12 @@ Hi!!!! I am Ishadie Namir.
     }
     .skill-bar .skill-bar-wrapper {
       background-color: #dedddd;
-      height: 10px;
+      height: 7px;
       border-radius: 10px;
       overflow: hidden;
     }
     .skill-bar .skill-bar-fill {
-      background-color: #52adc8;
+      background: linear-gradient(to right, #4596ad, #79daf7);
       height: 100%;
       transition: width 0.5s ease-in-out;
     }
