@@ -135,6 +135,7 @@ Hi!!!! I am Ishadie Namir.
   </div>
 </section>
 
+<div>
 <h2>Projects</h2>
 
 
@@ -156,6 +157,8 @@ Hi!!!! I am Ishadie Namir.
    managing an online bookstore. This website lets customers search books and order them
    through a cart. Also, the customers can create their own account in the system and place
    orders through that account.
+
+</div>
 
 <h2>Achievements</h2>
 
