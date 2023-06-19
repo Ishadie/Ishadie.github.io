@@ -12,7 +12,6 @@ ___
 Hi!!!! I am Ishadie Namir.
 
 <h2>My Skills</h2>
-<!DOCTYPE html>
 <html>
 <head>
   <title>Skill Bar Chart</title>
