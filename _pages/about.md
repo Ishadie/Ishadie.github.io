@@ -9,7 +9,7 @@ redirect_from:
 ---
 ___
 
-I am working as an Assoiate Software Engineer at Brain Station-23 Ltd. in Bangladesh. My job role was to perform independent development of release-capable software components on the Java platform. Also, by performing the jobs and tasks, I acquired a number of technical skills and these include, in particular, software development
+I am working as an Assoiate Software Engineer at Brain Station-23 Ltd. in Bangladesh. My job role is to perform independent development of release-capable software components on the Java platform. Also, by performing the jobs and tasks, I acquired a number of technical skills and these include, in particular, software development
 knowledge as well as expertise in fields like CMS development, Java content repositories, and
 web service development.
 
@@ -80,8 +80,8 @@ I have completed my Bachelors in Computer Science and Engineering (CSE) from BRA
 </body>
 </html>
 
-* Tools: Intellij IDEA, Eclipse, Netbeans, MS Visual Studio
-* Database Management: MySQL
+* <strong>Tools:</strong> Intellij IDEA, Eclipse, Netbeans, MS Visual Studio
+* <strong>Database Management:</strong> MySQL
 
 <h2>Projects</h2>
 
