@@ -18,20 +18,20 @@ ___
 ___
 
 * <strong><a href="https://github.com/Ishadie/cse470-Budget-and-Tax-Calculation-System">Budget and Tax Calculation System</a></strong>
- * Project Duration: March 2021-May2021
- * Technical Responsibilities: Development Lead
- * Technology Used: JavaScript, CSS, HTML
- * Short Description: ‘Budget and Tax Calculation System’ can be used for keeping track
+  * Project Duration: March 2021-May2021
+  * Technical Responsibilities: Development Lead
+  * Technology Used: JavaScript, CSS, HTML
+  * Short Description: ‘Budget and Tax Calculation System’ can be used for keeping track
    of one’s income and expenses efficiently. The system will show the total amount of
    income and expenses of a person and will keep a list of them. Also, it can be used to
    calculate tax amounts. The project is MVC structured and Jest is used for unit testing of
    the project functionalities.
 
 * <strong><a href="https://github.com/Ishadie/Bookstore-Management-Website">Bookstore Management Website</a></strong>
- * Project Duration: October 2019-November2019
- * Technical Responsibilities: Development Lead
- * Technology Used: PHP, MySQL, CSS, HTML, JavaScript
- * Short Description: ‘Bookstore Management Website’ can effectively be used for
+  * Project Duration: October 2019-November2019
+  * Technical Responsibilities: Development Lead
+  * Technology Used: PHP, MySQL, CSS, HTML, JavaScript
+  * Short Description: ‘Bookstore Management Website’ can effectively be used for
    managing an online bookstore. This website lets customers search books and order them
    through a cart. Also, the customers can create their own account in the system and place
    orders through that account.
