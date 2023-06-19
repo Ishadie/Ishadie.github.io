@@ -19,7 +19,6 @@ Hi!!!! I am Ishadie Namir.
     .skill-bar {
       width: 100%;
       max-width: 500px;
-      margin: 0 auto;
       padding: 10px;
     }
     .skill-bar .skill {
@@ -29,8 +28,8 @@ Hi!!!! I am Ishadie Namir.
       font-weight: bold;
     }
     .skill-bar .skill-bar-wrapper {
-      background-color: #f0f0f0;
-      height: 20px;
+      background-color: #dedddd;
+      height: 10px;
       border-radius: 10px;
       overflow: hidden;
     }
