@@ -59,6 +59,12 @@ I have completed my Bachelors in Computer Science and Engineering (CSE) from BRA
       </div>
     </div>
     <div class="skill">
+      <div class="skill-name">AEM</div>
+      <div class="skill-bar-wrapper">
+        <div class="skill-bar-fill" style="width: 80%;"></div>
+      </div>
+    </div>
+    <div class="skill">
       <div class="skill-name">JavaScript</div>
       <div class="skill-bar-wrapper">
         <div class="skill-bar-fill" style="width: 70%;"></div>
@@ -81,6 +87,7 @@ I have completed my Bachelors in Computer Science and Engineering (CSE) from BRA
 </html>
 
 * <strong>Tools:</strong> Intellij IDEA, Eclipse, Netbeans, MS Visual Studio
+* <strong>Packages:</strong> : Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Outlook, G Suite,
 * <strong>Database Management:</strong> MySQL
 
 <h2>Projects</h2>
