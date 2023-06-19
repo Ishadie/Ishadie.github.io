@@ -12,130 +12,50 @@ ___
 Hi!!!! I am Ishadie Namir.
 
 <h2>My Skills</h2>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-.bar-graph .year {
-    -webkit-animation: fade-in-text 2.2s 0.1s forwards;
-    -moz-animation: fade-in-text 2.2s 0.1s forwards;
-    animation: fade-in-text 2.2s 0.1s forwards;
-    opacity: 0;
-  }
-  .bar-graph-horizontal {
-    max-width: 380px;
-  }
-  .bar-graph-horizontal > div {
-    float: left;
-    margin-bottom: 8px;
-    width: 100%;
-  } 
-  .bar-graph-horizontal .year {
-    float: left;
-    margin-top: 18px;
-    width: 50px;
-  }
-  .bar-graph-horizontal .bar {
-    border-radius: 3px;
-    height: 55px;
-    float: left;
-    overflow: hidden;
-    position: relative;
-    width: 0;
-  }
-  .bar-graph-one .bar::after {
-    -webkit-animation: fade-in-text 2.2s 0.1s forwards;
-    -moz-animation: fade-in-text 2.2s 0.1s forwards;
-    animation: fade-in-text 2.2s 0.1s forwards;
-    color: #fff;
-    content: attr(data-percentage);
-    font-weight: 700;
-    position: absolute;
-    right: 16px;
-    top: 17px;
-  }
-  .bar-graph-one .bar-one .bar {
-    background-color: #64b2d1;
-    -webkit-animation: show-bar-one 1.2s 0.1s forwards;
-    -moz-animation: show-bar-one 1.2s 0.1s forwards;
-    animation: show-bar-one 1.2s 0.1s forwards;
-  }
-  .bar-graph-one .bar-two .bar {
-    background-color: #5292ac;
-    -webkit-animation: show-bar-two 1.2s 0.2s forwards;
-    -moz-animation: show-bar-two 1.2s 0.2s forwards;
-    animation: show-bar-two 1.2s 0.2s forwards;
-  }
-  .bar-graph-one .bar-three .bar {
-    background-color: #407286;
-    -webkit-animation: show-bar-three 1.2s 0.3s forwards;
-    -moz-animation: show-bar-three 1.2s 0.3s forwards;
-    animation: show-bar-three 1.2s 0.3s forwards;
-  }
-  .bar-graph-one .bar-four .bar {
-    background-color: #2e515f;
-    -webkit-animation: show-bar-four 1.2s 0.4s forwards;
-    -moz-animation: show-bar-four 1.2s 0.4s forwards;
-    animation: show-bar-four 1.2s 0.4s forwards;
-  }
-  @-webkit-keyframes show-bar-one {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 69.6%;
-    }
-  }
-  @-webkit-keyframes show-bar-two {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 71%;
-    }
-  }
-  @-webkit-keyframes show-bar-three {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 74.7%;
-    }
-  }
-  @-webkit-keyframes show-bar-four {
-    0% {
-      width: 0;
-    }
-    100% {
-      width: 76.8%;
-    }
-  }
-  @-webkit-keyframes fade-in-text {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
+* {box-sizing: border-box}
+.container {
+  width: 100%;
+  background-color: #ddd;
+}
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 80%; background-color: #2196F3;}
+.js {width: 65%; background-color: #f44336;}
+.php {width: 60%; background-color: #808080;}
 </style>
-<div>
-<section class="bar-graph bar-graph-horizontal bar-graph-one">
-  <div class="bar-one">
-    <span class="year">2019</span>
-    <div class="bar" data-percentage="69.6%"></div>
-  </div>
-  <div class="bar-two">
-    <span class="year">2018</span>
-    <div class="bar" data-percentage="71%"></div>
-  </div>
-  <div class="bar-three">
-    <span class="year">2017</span>
-    <div class="bar" data-percentage="74.7%"></div>
-  </div>
-  <div class="bar-four">
-    <span class="year">2019</span>
-    <div class="bar" data-percentage="76.8%"></div>
-  </div>
-</section>
+</head>
+<body>
+<p>HTML</p>
+<div class="container">
+  <div class="skills html">90%</div>
 </div>
+
+<p>CSS</p>
+<div class="container">
+  <div class="skills css">80%</div>
+</div>
+
+<p>JavaScript</p>
+<div class="container">
+  <div class="skills js">65%</div>
+</div>
+
+<p>PHP</p>
+<div class="container">
+  <div class="skills php">60%</div>
+</div>
+
+</body>
+</html>
 
 <h2>Projects</h2>
 
