@@ -12,10 +12,10 @@ ___
 Hi!!!! I am Ishadie Namir.
 
 <h2>My Skills</h2>
-___
+
 
 <h2>Projects</h2>
-___
+
 
 * <strong><a href="https://github.com/Ishadie/cse470-Budget-and-Tax-Calculation-System">Budget and Tax Calculation System</a></strong>
   * Project Duration: March 2021-May2021
@@ -37,7 +37,7 @@ ___
    orders through that account.
 
 <h2>Achievements</h2>
-___
+
 
 * Merit Based Scholarship from BRAC University (2020-2021)
 * Got placed on VC’s List for 5 semesters as recognition for achieving a GPA of 3.90-4.00 on those particular semesters.
