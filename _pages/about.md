@@ -92,6 +92,13 @@ I have completed my Bachelors in Computer Science and Engineering (CSE) from BRA
 
 <h2>Projects</h2>
 
+* <strong>AbbVie Care Website</strong>
+  * Project Duration: June 2022-August 2022
+  * Client: AbbVie Inc.
+  * Technical Responsibilities: Developed AEM authoring components and templates
+  * Technology Used: AEM, Java, JavaScript, HTML
+  * Short Description: AbbVie Care informs patients and those around them whether they are already under treatment or
+    simply looking for information after an exchange with a healthcare professional.
 
 * <strong><a href="https://github.com/Ishadie/cse470-Budget-and-Tax-Calculation-System">Budget and Tax Calculation System</a></strong>
   * Project Duration: March 2021-May2021
