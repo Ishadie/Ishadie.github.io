@@ -92,6 +92,12 @@ I have completed my Bachelors in Computer Science and Engineering (CSE) from BRA
 
 <h2>Projects</h2>
 
+* <strong>AbbVie OUS Reporting Dashboard</strong>
+  * Project Duration: March 2023-August 2023
+  * Client: AbbVie Inc.
+  * Technical Responsibilities: Automated tag creation process.
+  * Technology Used: AEM, Java, VueJS, HTML
+
 * <strong>AbbVie Care Website</strong>
   * Project Duration: June 2022-August 2022
   * Client: AbbVie Inc.
